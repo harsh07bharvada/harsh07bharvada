@@ -15,11 +15,10 @@
 
 - 🔭 I’m currently working on Node.js, Express.js & MongoDB
 - 🌱 I’m currently learning React & Redux
-- 👯 I’m looking to collaborate on anything
-- 🤔 I’m looking for help with JavaScript
+- 🤔 I’m looking for help with Vue.js
 - 💬 Ask me about Fantasy Premier League
 - 📫 How to reach me: [harsh07bharvada@gmail.com](mailto:harsh07bharvada@gmail.com)
-- 😄 Pronouns: Passionate Driven Ambitious
+- 😄 Pronouns: Passionate | Driven | Ambitious | Nerdy
 - ⚡ Fun fact: Sadly there isn't anything fun about me!!
 
 
