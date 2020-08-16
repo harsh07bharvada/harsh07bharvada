@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on Node.js, Express.js & MongoDB ( Too mainstream right! )
 - 🌱 I’m currently learning React, Redux & Deno ( I know, I know it is too much...)
-- 🤔 I’m looking for help with Vue.js
+- 🤔 I’m looking for help with Angular
 - 💬 Ask me about Fantasy Premier League
 - 📫 How to reach me: [harsh07bharvada@gmail.com](mailto:harsh07bharvada@gmail.com)
 - 😄 Pronouns: Passionate | Driven | Ambitious | Nerdy
