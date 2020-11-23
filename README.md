@@ -1,4 +1,4 @@
-### Hi there, This is Harsh 👋
+### Hi there, This is Harsh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/harsh-bharvada/">
   <img align="left" alt="Harsh Bharvada | Linkedin" width="20px" src="https://raw.githubusercontent.com/harsh07bharvada/harsh07bharvada/master/assets/linkedin.svg" />
