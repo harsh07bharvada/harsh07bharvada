@@ -10,6 +10,8 @@
   <img align="left" alt="Harsh Bharvada | Hackerrank" width="21px" src="https://raw.githubusercontent.com/harsh07bharvada/harsh07bharvada/master/assets/hackerrank.svg" />
 </a>
 
+![](https://komarev.com/ghpvc/?username=harsh07bharvada&style=flat-square)
+
 <br />
 <br />
 
@@ -23,6 +25,7 @@
 
 
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh07bharvada&show_icons=true&theme=dracula)
+
 
 
 **Languages and Tools:**  
